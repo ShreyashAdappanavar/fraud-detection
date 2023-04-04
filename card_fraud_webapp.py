@@ -2,7 +2,6 @@ import streamlit as st
 import pickle
 import sklearn
 import pandas
-import matplotlib
 import numpy
 import scipy
 
